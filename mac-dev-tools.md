@@ -166,3 +166,12 @@ If you already have shell customizations, you can skip this step.  If you're not
 	```
 
 3. Close your current terminal and open a new one.  It should appear a little different now.
+
+## Window management
+
+While programming it's pretty common to need to place two or three windows next to each other.  We'll install a program that gives us shortcut keys to do this.  
+This step is optional.
+
+1. Download https://raw.github.com/onsi/ShiftIt/master/ShiftIt.zip
+2. Extract it and drag the application into your `Applications` directory.
+3. Double-click the ShiftIt icon in `Applications` and follow the instructions to enable the accessibility options.
