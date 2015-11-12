@@ -148,3 +148,21 @@ When you forget to enter a commit message in the Terminal, git opens a text edit
 ## Chrome
 
 1. If you don't already have it, <a href="https://support.google.com/chrome/answer/95346?hl=en" target="_blank">download and install the Chrome web browser</a>.
+
+
+## bash-it
+
+In this class we'll be working in our terminals a lot.  Bash-it adds a lot of useful visual tools to the bash shell that will help you to see what is going on and where you're at in the directory structure.
+If you already have shell customizations, you can skip this step.  If you're not sure what that is, please follow along:
+
+1. In your terminal download it using git:
+  ```bash
+	$  git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it
+	```
+
+2. Then install it by running:
+	```bash
+	$  ~/.bash_it/install.sh
+	```
+
+3. Close your current terminal and open a new one.  It should appear a little different now.
